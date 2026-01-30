@@ -1,5 +1,11 @@
 function App(): React.JSX.Element {
-    return <></>;
+    return (
+        <>
+            <div className="header">
+                <div className="nav"></div>
+            </div>
+        </>
+    );
 }
 
 export default App;
