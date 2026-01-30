@@ -1,4 +1,5 @@
-singleQuote: true
-semi: false
-printWidth: 100
-trailingComma: none
+semi: true # 分号
+printWidth: 120 # 最大长度
+trailingComma: "all" # 尾随逗号
+tabWidth: 4 # 缩进
+singleQuote: false # 使用双引号
