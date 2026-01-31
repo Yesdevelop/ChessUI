@@ -1,9 +1,9 @@
+import Header from "./components/Header";
+
 function App(): React.JSX.Element {
     return (
         <>
-            <div className="header">
-                <div className="nav"></div>
-            </div>
+            <Header />
         </>
     );
 }
